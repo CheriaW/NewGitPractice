@@ -1,1 +1,7 @@
 C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\CLASS PROJECTS\GitsStuff\GitsStuff\bin\Debug\GitsStuff.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\NewGitPractice\bin\Debug\GitsStuff.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\NewGitPractice\bin\Debug\GitsStuff.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\NewGitPractice\bin\Debug\GitsStuff.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\NewGitPractice\obj\Debug\GitsStuff.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\NewGitPractice\obj\Debug\GitsStuff.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\NewGitPractice\obj\Debug\GitsStuff.pdb

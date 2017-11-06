@@ -10,6 +10,8 @@ namespace GitsStuff
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("I need new friends!!!");
+            Console.ReadLine();
         }
     }
 }
