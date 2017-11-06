@@ -12,6 +12,12 @@ namespace GitsStuff
         {
             Console.WriteLine("I need new friends!!!");
             Console.ReadLine();
+
+
+            Console.WriteLine("Send help now!");
+            Console.WriteLine("Enter ther name of a person who can help.");
+            Console.ReadLine();
+
         }
     }
 }
