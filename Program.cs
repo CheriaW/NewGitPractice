@@ -12,6 +12,9 @@ namespace GitsStuff
         {
             Console.WriteLine("I need new friends!!!");
             Console.ReadLine();
+
+            Console.WriteLine("Heartburn, nausea, indegestion, upsetstomach, diarrhea.");
+            Console.ReadLine();
         }
     }
 }
